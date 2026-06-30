@@ -24,7 +24,7 @@ The objective is to analyze approximately 5 years worth of phone marketing campa
 
 ## Key Findings and Business Recommendations
 
-### What our models tell us.
+### What our models tell us
 
 Based on our primary objective of analyzing approximately 5 years worth of phone marketing campaign data from a Portuguese Banking Institution in order to determine whether customers are likely to subscribe to a Term Deposit, we have found that utilizing bank-related features from this dataset, our models were able to achieve high accuracy, in the range of 89%, but our models were not effective at identifying customers who subscribed, as indicated by low Recall. This is due to the fact that only about 11% of customers in our dataset subscribed ('yes'), versus 89% that did not subscribe. Our models struggled to identify customers that subscribed, based on the selected features and the imbalanced data.¶
 
