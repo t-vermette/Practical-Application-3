@@ -4,6 +4,7 @@ Bank Term Deposit; Classifiers - Berkeley ML-AI - June 29, 2026, by Timothy Verm
 # Prediciting whether customers will subscribe to a bank term deposit
 
 ## Link to Jupyter Notebook on GitHub
+https://github.com/t-vermette/Practical-Application-3/blob/main/PracticalApplication3.ipynb
 
 ## Overview
 The objective is to analyze approximately 5 years worth of phone marketing campaign data from a Portuguese Banking Institution to determine whether customers are likely to subscribe to a Term Deposit. Our goal is to explore what features are most important in regards to determining whether a customer will subscribe to a term deposit, including customers' existing relationships with banks, broad economic factors, marketing campaign strategies, and customer demographics. We will utilize our results to identify the most influential drivers of customer behavior regarding subscriptions, provide analytics of ideal target customers, and make recommendations on future marketing campaigns, with the aim of maximizing efficacy and subscription rates.
