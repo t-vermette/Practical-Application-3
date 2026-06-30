@@ -18,6 +18,8 @@ The objective is to analyze approximately 5 years worth of phone marketing campa
 - Support Vector Machines
 - Model comparisons, hyperparameter tuning
 - Exploring Coefficients
+- Classification Reports
+- Dummy Classifier
 
 ## Key Findings and Business Recommendations
 
